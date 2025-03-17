@@ -1,6 +1,6 @@
 # Among Us Hacks: What You Need to Know 🛸
 
-[![among (2)](https://github.com/user-attachments/assets/72478f0f-fcf1-449c-8256-22ae133e934c)](https://amongus-online.io/)
+[![among us](https://github.com/user-attachments/assets/71a6d4f8-3c7c-4836-bfbd-2f642271b4bd)](https://amongus-online.io/)
 
 ### Play [Among Us here](https://amongus-online.io/)
 
