@@ -2,7 +2,7 @@
 
 [![among (2)](https://github.com/user-attachments/assets/72478f0f-fcf1-449c-8256-22ae133e934c)](https://amongus-online.io/)
 
-### Play Among Us [here](https://amongus-online.io/)
+### Play [Among Us here](https://amongus-online.io/)
 
 Among Us is an exciting game of deception, teamwork, and strategy. While some players look for ways to gain an advantage using hacks, others rely on legit strategies to outsmart their opponents. This guide will break down what hacks exist, the risks of using them, and how you can improve your gameplay without cheating.
 
